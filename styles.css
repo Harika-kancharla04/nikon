@@ -1,0 +1,61 @@
+header{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    
+}
+
+
+.div1{
+    color:white;
+    flex:1;
+    margin-left: 20px;
+}
+.div2{
+    color:white;
+    flex:3;
+    text-align: center;
+}
+.div3{
+    color:white;
+    flex:1;
+    
+}
+.div4{
+    background-image: url(https://images.unsplash.com/photo-1589397883755-2956c56267d3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size:cover;
+    height: 800px;
+    width:100%;
+}
+.div5{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.dv{
+    width:250px;
+    height: 350px;
+    margin-bottom: 40px;
+    align-content: center;
+}
+.div6{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding:20px 50px;    
+}
+.div7,.div8,.div9{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding:20px 50px; 
+    
+}
+footer{
+    background-color: #d2bbbb;
+    padding:50px 40%;
+    background-image: url(../../Pictures/apple.webp);
+
+}
